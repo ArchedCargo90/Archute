@@ -1,0 +1,6 @@
+Gracias por visitar nuestra web y utilizar nuestros programas. Si neceistas ayuda no dudes en contactarnos por medio de nuestra web.
+Recuerda que este downloader puede dejar de funcionar por algún error. Si es así deberás descargarlo de nuevo en la web.
+Para estar informado puedes unirte al servidor de Discord de nuestros socios.
+
+Nuestra web: https://archute.wordpress.com || https://bit.ly/archute
+Discord: https://discord.me/xerone || https://bit.ly/xerone
