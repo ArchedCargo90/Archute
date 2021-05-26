@@ -1,3 +1,2 @@
-Calcularched (Windows): 25/07/20
-Minigames (MAC): 26/06/21
-Batalla (Windwos y MAC): 26/06/21
+Calcularched: 25/07/20
+Batalla: 26/06/21
